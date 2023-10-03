@@ -27,7 +27,7 @@ End the program
 ## Program:
 Name: THIRISHA.s
 reg no : 212222230160
-
+```
 using System;
 public class Employee
 {
@@ -75,6 +75,7 @@ class TestEmployee
 
    }
 }
+```
 ## output:
 ![Screenshot (33)](https://github.com/Thirisha-s/Ex04-Constructor/assets/120380280/9da6d41f-a579-4132-adb6-4bbe446c3b66)
 
